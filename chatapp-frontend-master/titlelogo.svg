@@ -1,0 +1,8 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Speech bubble -->
+  <rect x="4" y="4" width="24" height="20" rx="4" ry="4" fill="#1E90FF" />
+  <!-- Tail of the speech bubble -->
+  <polygon points="14,24 16,28 18,24" fill="#1E90FF" />
+  <!-- Lightning bolt -->
+  <path d="M12 10 L20 10 L16 14 L20 18 L12 18 L16 14 Z" fill="#FFFFFF" />
+</svg>
